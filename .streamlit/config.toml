@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[compatibility]
+# Use Python 3.11 (highly recommended for stability with current LangChain/Pydantic)
+# Or you can try 3.12 if you prefer a slightly newer version.
+# Python 3.11 is generally very stable for these libraries.
+pythonVersion = "3.11"
