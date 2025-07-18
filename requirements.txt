@@ -1,6 +1,6 @@
 streamlit==1.34.0
-langchain==0.1.10             # Pin to a slightly older, very stable LangChain version
-langchain-community==0.0.10   # Pin to a compatible langchain-community (often needed transitively)
-langchain-core==0.1.28        # Pin to a compatible, widely used langchain-core version
+langchain==0.1.10
+langchain-community==0.0.26   # <--- CHANGED THIS LINE
+langchain-core==0.1.29        # <--- SLIGHTLY UPDATED THIS LINE for better compatibility
 requests
 pydantic==2.7.1
