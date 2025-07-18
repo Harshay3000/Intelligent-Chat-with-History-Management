@@ -1,0 +1,5 @@
+# .streamlit/config.toml
+[compatibility]
+# Explicitly request Python 3.11 for broader library compatibility.
+# Python 3.12 is also generally fine, but 3.11 is very robust.
+pythonVersion = "3.11"
