@@ -3,4 +3,4 @@ langchain==0.2.5             # Upgrade to LangChain 0.2.x series
 langchain-community==0.2.5   # Compatible community package
 langchain-core==0.2.11       # Compatible core package
 requests
-pydantic==2.7.1
+pydantic==2.7.4
